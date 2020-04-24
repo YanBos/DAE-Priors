@@ -9,6 +9,8 @@ agreement is included.
 
 ---
 
+If redistribution takes place the following disclaimer must be included for the files tvl1_dae.py tvl2_dae.py mv_tvl2.py and mv_tvl2_dae.py.
+
 Copyright (c) 2011, Javier Sánchez Pérez, Enric Meinhardt Llopis
  All rights reserved.
 
