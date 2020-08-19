@@ -9,7 +9,8 @@ agreement is included.
 
 ---
 
-If redistribution takes place the following disclaimer must be included in the files tvl1_dae.py, tvl2_dae.py, mv_tvl2.py, mv_tvl2_dae.py and in this file.
+If redistribution takes place the following disclaimer must be included in the files 
+tvl1_dae.py, tvl2_dae.py, mv_tvl2.py, mv_tvl2_dae.py and in this file.
 
 Copyright (c) 2011, Javier Sánchez Pérez, Enric Meinhardt Llopis
  All rights reserved.
@@ -37,16 +38,33 @@ ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE.
 
 (For tvl1_dae.py)
-The following implementation by Sánchez et al. [1] of the Dual TVL1 Optical Flow algorithm presented by Zach et al. [2] was translated into python by Yannick Bosch (yannick.bosch@uni-konstanz.de) and replaces the solution to the Total Variation based denoising problem within the scheme presented in [2] with a Denoising Autoencoder.
+The following implementation by Sánchez et al. [1] of the Dual TVL1 Optical 
+Flow algorithm presented by Zach et al. [2] was translated into python by 
+Yannick Bosch (yannick.bosch@uni-konstanz.de) and replaces the solution to 
+the Total Variation based denoising problem within the scheme presented in 
+[2] with a Denoising Autoencoder.
 
 (For tvl2_dae.py)
-The following implementation by Sánchez et al. [1] of the Dual TVL1 Optical Flow algorithm presented by Zach et al. [2] was translated into python by Yannick Bosch (yannick.bosch@uni-konstanz.de) and replaces the solution to the Total Variation based denoising problem within the scheme presented in [2] with a Denoising Autoencoder. Further instead of using an L1 loss this version uses an L2 loss.
+The following implementation by Sánchez et al. [1] of the Dual TVL1 Optical 
+Flow algorithm presented by Zach et al. [2] was translated into python by 
+Yannick Bosch (yannick.bosch@uni-konstanz.de) and replaces the solution to 
+the Total Variation based denoising problem within the scheme presented in 
+[2] with a Denoising Autoencoder. Further instead of using an L1 loss this 
+version uses an L2 loss.
 
 (For mv_tvl2.py)
-The following implementation by Sánchez et al. [1] of the Dual TVL1 Optical Flow algorithm presented by Zach et al. [2] was translated into python by Yannick Bosch (yannick.bosch@uni-konstanz.de).The algorithm was modified to work with lightfields (thus using an L2 loss).
+The following implementation by Sánchez et al. [1] of the Dual TVL1 Optical 
+Flow algorithm presented by Zach et al. [2] was translated into python by 
+Yannick Bosch (yannick.bosch@uni-konstanz.de).The algorithm was modified to 
+work with lightfields (thus using an L2 loss).
 
 (For mv_tvl2_dae.py)
-The following implementation by Sánchez et al. [1] of the Dual TVL1 Optical Flow algorithm presented by Zach et al. [2] was translated into python by Yannick Bosch (yannick.bosch@uni-konstanz.de). The algorithm was modified to work with lightfields (thus using an L2 loss) and replaces the solution to the Total Variation based denoising problem within the scheme presented in [2] with a Denoising Autoencoder.
+The following implementation by Sánchez et al. [1] of the Dual TVL1 Optical 
+Flow algorithm presented by Zach et al. [2] was translated into python by 
+Yannick Bosch (yannick.bosch@uni-konstanz.de). The algorithm was modified to 
+work with lightfields (thus using an L2 loss) and replaces the solution to 
+the Total Variation based denoising problem within the scheme presented in 
+[2] with a Denoising Autoencoder.
 
 [1] Sánchez Pérez, Javier and Meinhardt-Llopis, Enric and Facciolo, Gabriele,
 TV-L1 Optical Flow Estimation,
