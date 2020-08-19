@@ -94,4 +94,3 @@ src/lightfield.
 
 The images in data/OF are from https://github.com/vinthony/Dual_TVL1_Optical_Flow.
 
-
